@@ -1,4 +1,4 @@
-# 201810_Randomized-Algorithms
+# 201812_Randomized-Algorithms
 Project on randomized algorithms for computing the median of a set numbers. Comparison between algorithms in speed and performance.
 
 Randomized algorithms allow to diminish the computational cost when solving some problems. However, as we are not dealing with deterministic algorithms, they may lead to an incorrect answer.
